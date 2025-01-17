@@ -1,0 +1,14 @@
+C:\Users\boydd\OneDrive\Desktop\RiddleGame\obj\Debug\net8.0\RiddleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boydd\OneDrive\Desktop\RiddleGame\obj\Debug\net8.0\RiddleGame.AssemblyInfoInputs.cache
+C:\Users\boydd\OneDrive\Desktop\RiddleGame\obj\Debug\net8.0\RiddleGame.AssemblyInfo.cs
+C:\Users\boydd\OneDrive\Desktop\RiddleGame\obj\Debug\net8.0\RiddleGame.csproj.CoreCompileInputs.cache
+C:\Users\boydd\OneDrive\Desktop\RiddleGame\bin\Debug\net8.0\RiddleGame.exe
+C:\Users\boydd\OneDrive\Desktop\RiddleGame\bin\Debug\net8.0\RiddleGame.deps.json
+C:\Users\boydd\OneDrive\Desktop\RiddleGame\bin\Debug\net8.0\RiddleGame.runtimeconfig.json
+C:\Users\boydd\OneDrive\Desktop\RiddleGame\bin\Debug\net8.0\RiddleGame.dll
+C:\Users\boydd\OneDrive\Desktop\RiddleGame\bin\Debug\net8.0\RiddleGame.pdb
+C:\Users\boydd\OneDrive\Desktop\RiddleGame\obj\Debug\net8.0\RiddleGame.dll
+C:\Users\boydd\OneDrive\Desktop\RiddleGame\obj\Debug\net8.0\refint\RiddleGame.dll
+C:\Users\boydd\OneDrive\Desktop\RiddleGame\obj\Debug\net8.0\RiddleGame.pdb
+C:\Users\boydd\OneDrive\Desktop\RiddleGame\obj\Debug\net8.0\RiddleGame.genruntimeconfig.cache
+C:\Users\boydd\OneDrive\Desktop\RiddleGame\obj\Debug\net8.0\ref\RiddleGame.dll
